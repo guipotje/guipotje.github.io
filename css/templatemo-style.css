@@ -427,3 +427,13 @@ input { height: 50px; }
   .navbar-default .navbar-brand {  padding-top: 2px; }
 }
 /* END MEDIA 360 */
+
+.profilepic{
+  border-radius: 50%;
+}
+/*
+a:link {
+  color: #e65000;
+  background-color: transparent;
+  text-decoration: none;
+}*/

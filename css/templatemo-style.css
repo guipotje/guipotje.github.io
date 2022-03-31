@@ -292,7 +292,7 @@ hr {
 .fluid-img {
   width: 100%;
   display: block;
-  height: auto;
+  height: 300px;
 }
 /* END PORTFOLIO */
 
